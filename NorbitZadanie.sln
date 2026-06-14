@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collection", "..\Collection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database", "..\Database\Database.csproj", "{46CE9DE7-A5CF-4D0A-8453-39B0B5AB234C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessCrud", "..\DataAccessCrud\DataAccessCrud.csproj", "{3BB90002-9B8A-4B11-AA79-C25AAA9B8FA6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{46CE9DE7-A5CF-4D0A-8453-39B0B5AB234C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46CE9DE7-A5CF-4D0A-8453-39B0B5AB234C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46CE9DE7-A5CF-4D0A-8453-39B0B5AB234C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BB90002-9B8A-4B11-AA79-C25AAA9B8FA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BB90002-9B8A-4B11-AA79-C25AAA9B8FA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BB90002-9B8A-4B11-AA79-C25AAA9B8FA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BB90002-9B8A-4B11-AA79-C25AAA9B8FA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
